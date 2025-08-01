@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/2ba25bce-5a1a-49c1-9647-bc64ea9ba971)
+
 ## 🧾 Descrição do Script
 
 Este script automatiza o preenchimento de um formulário online no Microsoft Forms com dados de placas de veículos extraídos de um arquivo Excel (`placas.xlsx`).
